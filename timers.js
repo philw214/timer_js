@@ -1,6 +1,6 @@
 
-var seconds = 57;
-var minutes = 59;
+var seconds = 0;
+var minutes = 0;
 var hours = 0;
 var intervalID;
 var start = document.getElementById('start');
